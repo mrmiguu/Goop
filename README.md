@@ -1,3 +1,3 @@
 # Goop
 GopherJS + Phaser.io = Goop
-![](goop.png)
+<img src="goop.png" alt="Drawing" style="width: 210px; height: 150px"/>
